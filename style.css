@@ -3,7 +3,7 @@ body {
 }
 
 .fill {
-    background-image: url('http://source.unsplash.com/random/150x15');
+    background-image: url('http://source.unsplash.com/random/150x150');
     position: relative;
     height: 150px;
     width: 150px;
